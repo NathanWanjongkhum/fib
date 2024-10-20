@@ -1,0 +1,1 @@
+A project to calculate the fibonacci sequence in Rust as quickly as possible.
